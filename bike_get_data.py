@@ -39,6 +39,9 @@ def getdata(now,certified_keys):
             # break전 부분에서 에러가 나기 때문에, break까지 갔다면 문제없이 데이터를 받아왔기 때문에 while문을 멈춤
             break
         except:
+            # 에러 확인용
+            print(now)
+            print(response)
             # 위의 try에서 문제가 생겼다면, except으로 오는데 여기서 continue를 만나면 다시 while의 첫 부분, try로 가게 되어
             # 다시 API를 날리게 됨.
             continue
