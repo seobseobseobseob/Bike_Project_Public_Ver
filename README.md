@@ -15,6 +15,7 @@
 * 한강 좌표 - 수작업으로 수집
 * 서울시 주요 공원 좌표 - http://data.seoul.go.kr/dataList/OA-394/S/1/datasetView.do
 * 지하철 좌표 - https://gaussian37.github.io/python-etc-%EC%88%98%EB%8F%84%EA%B6%8C-%EC%A7%80%ED%95%98%EC%B2%A0/
+* 지하철 이용량 - https://www.notion.so/kimjeongseob/803a7376b0424dac86ea539e1968ca58#829aa0e8b7fa45d49b34486af885dae8
 * 서울시 주민 등록 통계 - https://data.seoul.go.kr/dataList/10718/S/2/datasetView.do;jsessionid=D983F72CD50AB05F067C47FA88EFE3D9.new_portal-svr-11#none
 ----
 #### 기타 사항
